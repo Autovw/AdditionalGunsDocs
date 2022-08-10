@@ -1,4 +1,4 @@
-name: Update Wiki
+name: Publish To Wiki
 
 on:
   push:
